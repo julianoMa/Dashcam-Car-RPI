@@ -4,7 +4,7 @@ I'm going to write all my researchs here, and later put the code.
 
 ## Components
 ### Board
-I'm picking the ESP32-Wrover from Freenove on [Aliexpress](https://fr.aliexpress.com/item/1005004339923548.html), it has an CSI interface.
+I'm picking the ESP32-Wrover-DEV from Freenove on [Aliexpress](https://fr.aliexpress.com/item/1005004339923548.html), it has an CSI interface.
 
 **Price :** 5.75€ (with Aliexpress welcome offer)
 
@@ -18,3 +18,11 @@ I found this pretty [OV5647](https://fr.aliexpress.com/item/1005006064966176.htm
 I'm using an [SanDisk 64Gb](https://fr.aliexpress.com/item/1005006572226710) micro SD card.
 
 **Price :** 4.11€
+
+### Micro SD Card Reader
+I will use this [micro SD card reader](https://fr.aliexpress.com/item/1005006248599786.html).
+
+**Price :** 0.78€
+
+### Total Price
+The total price come up to 14.28€
