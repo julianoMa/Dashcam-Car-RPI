@@ -16,3 +16,5 @@ I found this pretty [OV5647](https://fr.aliexpress.com/item/1005006064966176.htm
 **Price :** 3.64€
 ### Storage
 I'm using an [SanDisk 64Gb](https://fr.aliexpress.com/item/1005006572226710) micro SD card.
+
+**Price :** 4.11€
