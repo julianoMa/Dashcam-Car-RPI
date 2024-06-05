@@ -8,6 +8,8 @@ I'm picking the ESP32-Wrover-DEV from Freenove on [Aliexpress](https://fr.aliexp
 
 **Price :** 5.75€ (with Aliexpress welcome offer)
 
+![S73e201a0da2a4e3688e924b3a6e41c4fe jpg_640x640Q90](https://github.com/julianoMa/Dashcam-Car-ESP32/assets/87315533/2c209568-704e-4ffd-83dd-0d6d2e6bd0b2)
+
 ### Camera
 I will not use the provided cam with the board, because it has not much video quality, the provided one is the [OV2640](https://www.uctronics.com/download/cam_module/OV2640DS.pdf) and it's even not the right interface !
 
