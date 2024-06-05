@@ -8,8 +8,6 @@ I'm picking the Raspberry PI 0W on [Aliexpress]([https://fr.aliexpress.com/item/
 
 **Price :** 9.13€ (with Aliexpress welcome offer)
 
-![S73e201a0da2a4e3688e924b3a6e41c4fe jpg_640x640Q90](https://github.com/julianoMa/Dashcam-Car-ESP32/assets/87315533/2c209568-704e-4ffd-83dd-0d6d2e6bd0b2)
-
 ### Camera
 I found this pretty [OV5647](https://fr.aliexpress.com/item/1005006064966176.html) on Aliexpress, I will use it.
 
