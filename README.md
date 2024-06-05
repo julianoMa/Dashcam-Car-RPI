@@ -1,4 +1,4 @@
-# Dashcam Car ESP32
+# Dashcam Car RPI
 As my parents encounter many dangers on road, I decided to create a custom Dashcam for their car.
 I'm going to write all my researchs here, and later put the code.
 
