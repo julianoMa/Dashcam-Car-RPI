@@ -4,7 +4,7 @@ I'm going to write all my researchs here, and later put the code.
 
 ## Components
 ### Board
-I'm picking the Raspberry PI 0W on [Aliexpress]([https://fr.aliexpress.com/item/1005004339923548.html](https://fr.aliexpress.com/item/1005005792181612.html)), it has an CSI interface.
+I'm picking the Raspberry PI 0W on [Aliexpress](https://fr.aliexpress.com/item/1005004339923548.html), it has an CSI interface.
 
 **Price :** 9.13€ (with Aliexpress welcome offer)
 
