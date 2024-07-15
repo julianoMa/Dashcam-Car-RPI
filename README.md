@@ -22,6 +22,3 @@ But, to adapt it from 15pin to the 22pin of the RPI0W, I'm gonna use another cab
 I'm using an [SanDisk 64Gb](https://fr.aliexpress.com/item/1005006572226710) micro SD card.
 
 **Price :** 4.11€
-
-### Total Price
-The total price come up to 19.20€
